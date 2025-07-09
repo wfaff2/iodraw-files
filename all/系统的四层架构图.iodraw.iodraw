@@ -11,7 +11,7 @@
           <mxGeometry x="689" y="198.5" width="247" height="78" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-428" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#7EA6E0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="740" width="1270" height="340" as="geometry" />
+          <mxGeometry x="-221" y="750" width="1270" height="340" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-430" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;GET&lt;/font&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;LLM目标推理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;align=center;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-150" y="778" width="780" height="130" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="1161.5" y="832" width="247" height="176" as="geometry" />
         </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-69" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="-640" width="1820" height="1100" as="geometry" />
+          <mxGeometry x="-310" y="-582" width="1820" height="1100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
