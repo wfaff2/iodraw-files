@@ -20,28 +20,28 @@
           <mxGeometry x="514" y="462.5" width="242" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-428" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#7EA6E0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1023.5" y="398" width="265" height="424" as="geometry" />
+          <mxGeometry x="1376.5" y="218" width="265" height="424" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-429" value="司&lt;div&gt;机&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1016" y="444" width="45" height="352" as="geometry" />
+          <mxGeometry x="1369" y="264" width="45" height="352" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-430" value="抽象交易，以更低成本完成更多标准化流程和交易数据建设" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1099" y="434" width="114" height="84" as="geometry" />
+          <mxGeometry x="1452" y="254" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-431" value="交易线上化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1062" y="468" width="84" height="35" as="geometry" />
+          <mxGeometry x="1415" y="288" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-432" value="智能化体验策略提升用户需求表达及决策的效率" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1106" y="571" width="112" height="84" as="geometry" />
+          <mxGeometry x="1459" y="391" width="112" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-433" value="业务赋能" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1063" y="607" width="84" height="35" as="geometry" />
+          <mxGeometry x="1416" y="427" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-434" value="智能化体验策略提升用户需求表达及决策的效率" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1106" y="712" width="114" height="84" as="geometry" />
+          <mxGeometry x="1459" y="532" width="124" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-435" value="激励机制" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1062" y="742" width="84" height="35" as="geometry" />
+          <mxGeometry x="1415" y="562" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-436" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#CC99FF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="648" y="829" width="843" height="139" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="1129" y="910" width="140" height="53" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-445" value="&lt;div&gt;决&lt;/div&gt;&lt;div&gt;策&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=26;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="987" y="40" width="63" height="638" as="geometry" />
+          <mxGeometry x="1340" y="-140" width="63" height="638" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-449" value="感&lt;div&gt;知&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=26;align=center;" parent="1" vertex="1">
           <mxGeometry x="-246" y="64" width="63" height="638" as="geometry" />
