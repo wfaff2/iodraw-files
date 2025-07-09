@@ -103,8 +103,8 @@
         <mxCell id="2RiS8ALDfPdC-6W32hzE-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="769" y="550" width="70" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="2RiS8ALDfPdC-6W32hzE-57" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;UAV广域BEV图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="33.5" y="510" width="247" height="40" as="geometry" />
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-57" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;UAV广域BEV图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="64" width="247" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
