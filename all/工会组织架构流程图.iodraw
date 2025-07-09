@@ -16,9 +16,6 @@
             <mxPoint x="452.80952380952385" y="246.04761904761904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-14" value="助理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFB366;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="453" y="256" width="59" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-17" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFB366;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="410" y="318" width="36" height="98" as="geometry" />
         </mxCell>
@@ -91,18 +88,6 @@
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-33" value="设备管理员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFCC;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="807" y="372" width="104" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-34" value="楼&lt;div&gt;管&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#F19C99;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="487" y="432" width="36" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-35" value="总&lt;div&gt;台&lt;/div&gt;&lt;div&gt;文&lt;/div&gt;&lt;div&gt;员&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#F19C99;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="534" y="433" width="36" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-36" value="广场招聘商员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#F19C99;fontSize=16;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="579" y="432" width="36" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-37" value="招&lt;div&gt;商&lt;/div&gt;&lt;div&gt;专&lt;/div&gt;&lt;div&gt;员&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#F19C99;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="624" y="433" width="36" height="98" as="geometry" />
-        </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-38" value="客户文员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFCC;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="677" y="432" width="27" height="98" as="geometry" />
         </mxCell>
@@ -157,38 +142,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="907" y="436" as="sourcePoint" />
             <mxPoint x="957" y="386" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-49" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;align=center;entryX=0.616;entryY=0.002;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="RBmMXZ5XCkEqrK13Xaad-37" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="596" y="431" as="sourcePoint" />
-            <mxPoint x="698" y="367" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="596" y="423" />
-              <mxPoint x="646" y="423" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-50" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;align=center;entryX=0.616;entryY=0.002;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="505" y="431" as="sourcePoint" />
-            <mxPoint x="555" y="433" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="505" y="423" />
-              <mxPoint x="555" y="423" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-51" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;align=center;entryX=0.548;entryY=1.013;entryPerimeter=0;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="613" y="421.90697674418607" as="sourcePoint" />
-            <mxPoint x="613" y="415.4784053156145" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-52" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;align=center;entryX=0.548;entryY=1.013;entryPerimeter=0;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="541" y="422.90697674418607" as="sourcePoint" />
-            <mxPoint x="541" y="416.4784053156145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-53" value="三级架构" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#000000;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
