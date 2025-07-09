@@ -100,6 +100,9 @@
         <mxCell id="2RiS8ALDfPdC-6W32hzE-68" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;最有轨迹&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="1150" y="970" width="247" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-69" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
