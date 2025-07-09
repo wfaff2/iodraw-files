@@ -104,7 +104,7 @@
             <mxPoint x="454" y="51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bQ-rXIquePDy9N8uiz9J-4" value="决&lt;div&gt;策&lt;/div&gt;&lt;div&gt;机&lt;/div&gt;&lt;div&gt;制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFB366;fontSize=17;fontColor=#000000;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bQ-rXIquePDy9N8uiz9J-4" value="决&lt;div&gt;策&lt;/div&gt;&lt;div&gt;机&lt;/div&gt;&lt;div&gt;制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFCC;fontSize=17;fontColor=#000000;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="434.5" y="324.5" width="36" height="98" as="geometry" />
         </mxCell>
       </root>
