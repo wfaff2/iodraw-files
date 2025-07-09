@@ -10,9 +10,6 @@
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-424" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;AAGE&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;空地信息共享&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="656" y="198.5" width="247" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-427" value="交易模式探索" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="657" y="485" width="242" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-428" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#7EA6E0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="1376.5" y="218" width="265" height="424" as="geometry" />
         </mxCell>
@@ -115,8 +112,11 @@
         <mxCell id="2RiS8ALDfPdC-6W32hzE-42" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="572" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2RiS8ALDfPdC-6W32hzE-47" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;AAGE&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;空地信息共享&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="666" y="208.5" width="247" height="78" as="geometry" />
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-47" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;COPE&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;3D覆盖+能源接力&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="656" y="325" width="247" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-48" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;AAGE&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;空地信息共享&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="656" y="462" width="247" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
