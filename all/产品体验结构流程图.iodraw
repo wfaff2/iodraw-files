@@ -23,7 +23,7 @@
           <mxGeometry x="-26" y="115" width="90" height="352" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-420" value="&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;UAV广域BEV建图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="9.5" y="80" width="179" height="35" as="geometry" />
+          <mxGeometry x="-20" y="74.5" width="179" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-423" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="143" width="265" height="424" as="geometry" />
