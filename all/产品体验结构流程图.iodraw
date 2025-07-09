@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-411" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=11;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="345" y="65" width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-414" value="信息安全" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FF9933;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="639" y="65" width="276" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-423" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="140" width="265" height="424" as="geometry" />
         </mxCell>
@@ -66,15 +60,6 @@
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-441" value="服务差评" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="1190" y="934" width="140" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-442" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rounded=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="887" y="62" width="129" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-443" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rounded=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="890" y="312" width="129" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-444" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rounded=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="890" y="635" width="128" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-445" value="司&lt;div&gt;机&lt;/div&gt;&lt;div&gt;&lt;span&gt;运&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;营&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=26;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="1048" y="64" width="63" height="638" as="geometry" />
