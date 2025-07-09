@@ -34,23 +34,8 @@
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-435" value="激励机制" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="1415" y="562" width="84" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-436" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#CC99FF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="526" y="821" width="843" height="139" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-437" value="&lt;font style=&quot;font-size: 21px&quot;&gt;体验策略&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;关注交易过程中司乘的体验，建设公平合理的品台规则，通过产品手段及时发现并准确识别三方责任原因&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;从平台服务者的角度，通过产品手段与司乘沟通处理，减少体验损伤，疏导司乘矛盾&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#CC99FF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="525" y="822" width="843" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-438" value="取消行为" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="-460" y="977.5" width="528" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-439" value="费用异议" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="769" y="900" width="140" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-440" value="申诉服务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1218" y="899" width="140" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-441" value="服务差评" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1007" y="902" width="140" height="53" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-445" value="&lt;div&gt;决&lt;/div&gt;&lt;div&gt;策&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=26;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="1140" y="-670" width="63" height="638" as="geometry" />
