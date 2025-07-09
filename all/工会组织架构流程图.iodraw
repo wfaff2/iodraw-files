@@ -39,7 +39,7 @@
           <mxGeometry x="720" y="322.5" width="36" height="98" as="geometry" />
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-26" value="安&lt;div&gt;保&lt;/div&gt;&lt;div&gt;处&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFCC;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="840.5" y="420.5" width="36" height="98" as="geometry" />
+          <mxGeometry x="850" y="390" width="36" height="98" as="geometry" />
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-28" value="文员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFCC;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="965" y="324.5" width="36" height="98" as="geometry" />
@@ -56,7 +56,7 @@
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-30" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;align=center;entryX=0.548;entryY=1.013;entryPerimeter=0;fontStyle=1" parent="1" target="RBmMXZ5XCkEqrK13Xaad-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="864" y="320" as="sourcePoint" />
+            <mxPoint x="864" y="330" as="sourcePoint" />
             <mxPoint x="882" y="287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
