@@ -31,9 +31,6 @@
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-434" value="智能化体验策略提升用户需求表达及决策的效率" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="749" y="1014" width="124" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-435" value="激励机制" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="705" y="1044" width="84" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-438" value="取消行为" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="-460" y="977.5" width="528" height="53" as="geometry" />
         </mxCell>
@@ -110,7 +107,7 @@
           <mxGeometry x="560" y="329" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="769" y="550" width="70" height="140" as="geometry" />
+          <mxGeometry x="769" y="550" width="70" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
