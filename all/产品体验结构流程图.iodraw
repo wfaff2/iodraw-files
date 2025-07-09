@@ -14,19 +14,13 @@
           <mxGeometry x="1150" y="746" width="540" height="188" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-429" value="司&lt;div&gt;机&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="659" y="746" width="45" height="352" as="geometry" />
+          <mxGeometry x="391" y="770" width="45" height="352" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-430" value="GET&lt;div&gt;LLM目标推理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="742" y="736" width="118" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-431" value="交易线上化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="705" y="770" width="84" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-432" value="智能化体验策略提升用户需求表达及决策的效率" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="749" y="873" width="112" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-433" value="业务赋能" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="706" y="909" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-434" value="智能化体验策略提升用户需求表达及决策的效率" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="749" y="1014" width="124" height="84" as="geometry" />
