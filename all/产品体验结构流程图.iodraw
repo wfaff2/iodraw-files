@@ -118,8 +118,8 @@
         <mxCell id="2RiS8ALDfPdC-6W32hzE-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="363" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2RiS8ALDfPdC-6W32hzE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2RiS8ALDfPdC-6W32hzE-25" target="2RiS8ALDfPdC-6W32hzE-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-39" value="感知层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=26;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-236" y="74" width="63" height="638" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
