@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="P-FLB3ng-8zm5jahk_r2" name="Page-1">
-    <mxGraphModel dx="4870" dy="3729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6524" dy="3729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,16 +11,16 @@
           <mxGeometry x="689" y="198.5" width="247" height="78" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-428" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#7EA6E0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-213" y="730" width="1270" height="380" as="geometry" />
+          <mxGeometry x="-246" y="730" width="1270" height="380" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-430" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;GET&lt;/font&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;LLM目标推理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;align=center;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="778" width="780" height="130" as="geometry" />
+          <mxGeometry x="-183" y="778" width="780" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-432" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;DOU&lt;/font&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;自主目标优化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="950" width="780" height="120" as="geometry" />
+          <mxGeometry x="-183" y="950" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-434" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;输出层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="710" y="770" width="264" height="300" as="geometry" />
+          <mxGeometry x="677" y="770" width="264" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-449" value="感&lt;div&gt;知&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=26;align=center;" parent="1" vertex="1">
           <mxGeometry x="-246" y="64" width="63" height="638" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="1161.5" y="832" width="247" height="176" as="geometry" />
         </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-71" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="-688" width="1850" height="1110" as="geometry" />
+          <mxGeometry x="-1710" y="-860" width="1850" height="1110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
