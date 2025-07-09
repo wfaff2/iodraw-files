@@ -263,9 +263,9 @@
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-60" value="培训专员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#000000;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="198" y="316" width="31" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-61" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;align=center;exitX=0.548;exitY=0;exitPerimeter=0;entryX=0.623;entryY=0.002;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="RBmMXZ5XCkEqrK13Xaad-54" target="RBmMXZ5XCkEqrK13Xaad-60" edge="1">
+        <mxCell id="RBmMXZ5XCkEqrK13Xaad-61" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;align=center;entryX=0.623;entryY=0.002;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="RBmMXZ5XCkEqrK13Xaad-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="12" y="299" as="sourcePoint" />
+            <mxPoint x="-86" y="316" as="sourcePoint" />
             <mxPoint x="62" y="249" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-86" y="282" />
