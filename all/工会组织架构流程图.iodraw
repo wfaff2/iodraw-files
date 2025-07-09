@@ -7,12 +7,6 @@
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-1" value="核心问题" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFB366;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="386" y="-3" width="127" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-2" value="总经理助理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#66FFFF;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="303" y="77" width="127" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-3" value="执行总经理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#66FFFF;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="465" y="77" width="127" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-4" value="企划部" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#CCFFFF;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="258" y="192" width="120" height="54" as="geometry" />
         </mxCell>
@@ -338,12 +332,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="454" y="190" as="sourcePoint" />
             <mxPoint x="454" y="51" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-70" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#000000;align=center;exitX=0.999;exitY=0.497;exitPerimeter=0;" parent="1" source="RBmMXZ5XCkEqrK13Xaad-2" target="RBmMXZ5XCkEqrK13Xaad-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="442" y="178" as="sourcePoint" />
-            <mxPoint x="492" y="128" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-71" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=#FFFFFF;align=center;exitX=0.534;exitY=-0.004;exitPerimeter=0;" parent="1" source="RBmMXZ5XCkEqrK13Xaad-4" edge="1">
