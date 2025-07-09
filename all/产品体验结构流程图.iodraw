@@ -118,7 +118,7 @@
         <mxCell id="2RiS8ALDfPdC-6W32hzE-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="363" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2RiS8ALDfPdC-6W32hzE-39" value="感知层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#9673a6;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=26;align=center;" vertex="1" parent="1">
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-39" value="协同层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#9673a6;strokeWidth=2;fillColor=#CC99FF;fontFamily=Comic Sans MS;fontSize=26;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="73" width="63" height="638" as="geometry" />
         </mxCell>
       </root>
