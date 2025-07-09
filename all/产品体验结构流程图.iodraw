@@ -107,7 +107,7 @@
           <mxGeometry x="-20" y="64" width="247" height="38" as="geometry" />
         </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-57" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;AAGE&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;空地信息共享&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="687.5" y="24" width="247" height="78" as="geometry" />
+          <mxGeometry x="33.5" y="472" width="247" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
