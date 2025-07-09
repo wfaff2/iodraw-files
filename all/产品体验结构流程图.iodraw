@@ -125,12 +125,12 @@
           <mxGeometry x="125" y="205" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-15" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="1">
-          <mxGeometry x="182" y="180" width="138" height="350" as="geometry" />
+          <mxGeometry x="181" y="180" width="138" height="350" as="geometry" />
         </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-17" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;提供全局轮廓信息&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="193" y="190" width="114" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="2RiS8ALDfPdC-6W32hzE-18" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;生成更优的探索路线&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-18" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生成更优的探索路线&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="194" y="425" width="114" height="84" as="geometry" />
         </mxCell>
       </root>
