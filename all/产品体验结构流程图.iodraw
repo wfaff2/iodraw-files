@@ -32,7 +32,7 @@
           <mxGeometry x="182" y="438" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-420" value="交易线上化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ffffff;align=center;" parent="1" vertex="1">
-          <mxGeometry x="91" y="205" width="84" height="35" as="geometry" />
+          <mxGeometry x="91" y="140" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-421" value="需求转化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ffffff;align=center;" parent="1" vertex="1">
           <mxGeometry x="89" y="343" width="84" height="35" as="geometry" />
