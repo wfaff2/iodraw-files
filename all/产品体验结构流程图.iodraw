@@ -137,7 +137,10 @@
           <mxGeometry width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-15" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="182" y="274" width="108" height="90" as="geometry" />
+          <mxGeometry x="182" y="274" width="108" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-16" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;提供全局轮廓信息&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="182" y="280" width="78" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
