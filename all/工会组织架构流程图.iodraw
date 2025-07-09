@@ -17,10 +17,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-17" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFB366;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="410" y="318" width="36" height="98" as="geometry" />
+          <mxGeometry x="340" y="322.5" width="36" height="98" as="geometry" />
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-18" value="弱&lt;div&gt;电&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFB366;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="463" y="318" width="36" height="98" as="geometry" />
+          <mxGeometry x="513" y="318" width="36" height="98" as="geometry" />
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-19" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;align=center;exitX=0.444;exitY=0;exitPerimeter=0;entryX=0.565;entryY=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=1" parent="1" source="RBmMXZ5XCkEqrK13Xaad-17" target="RBmMXZ5XCkEqrK13Xaad-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,16 +29,6 @@
             <Array as="points">
               <mxPoint x="426" y="298" />
               <mxPoint x="483" y="298" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-20" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;align=center;exitX=0.444;exitY=0;exitPerimeter=0;entryX=0.565;entryY=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="427" y="319" as="sourcePoint" />
-            <mxPoint x="484" y="319" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="319" />
-              <mxPoint x="460" y="319" />
             </Array>
           </mxGeometry>
         </mxCell>
