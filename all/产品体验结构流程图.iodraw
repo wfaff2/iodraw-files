@@ -115,9 +115,6 @@
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-447" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rounded=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-166" y="306" width="129" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-448" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rounded=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;fontFamily=Comic Sans MS;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-167" y="644" width="129" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-449" value="感知层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=26;align=center;" parent="1" vertex="1">
           <mxGeometry x="-246" y="64" width="63" height="638" as="geometry" />
         </mxCell>
