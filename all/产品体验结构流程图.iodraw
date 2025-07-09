@@ -109,8 +109,8 @@
         <mxCell id="2RiS8ALDfPdC-6W32hzE-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-139" y="210" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2RiS8ALDfPdC-6W32hzE-25" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=default;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="67" width="390" height="656.5" as="geometry" />
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-25" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=none;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="54.75" width="390" height="656.5" as="geometry" />
         </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-26" value="UGV激光点云采集" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=20;align=center;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="16" y="550" width="282" height="120" as="geometry" />
