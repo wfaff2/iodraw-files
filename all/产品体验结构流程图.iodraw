@@ -136,8 +136,8 @@
         <mxCell id="2RiS8ALDfPdC-6W32hzE-14" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="2RiS8ALDfPdC-6W32hzE-13">
           <mxGeometry width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2RiS8ALDfPdC-6W32hzE-15" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="2RiS8ALDfPdC-6W32hzE-13">
-          <mxGeometry x="50" y="5" width="45" height="90" as="geometry" />
+        <mxCell id="2RiS8ALDfPdC-6W32hzE-15" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="182" y="274" width="108" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
