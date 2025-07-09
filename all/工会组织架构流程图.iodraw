@@ -257,11 +257,8 @@
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-54" value="AAGE&lt;div&gt;空地协同&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#000000;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-120" y="318" width="73" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="bQ-rXIquePDy9N8uiz9J-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RBmMXZ5XCkEqrK13Xaad-57" target="RBmMXZ5XCkEqrK13Xaad-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RBmMXZ5XCkEqrK13Xaad-57" value="COPE" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#000000;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="48" y="319" width="62" height="111" as="geometry" />
+        <mxCell id="RBmMXZ5XCkEqrK13Xaad-57" value="COPE&lt;div&gt;3D续航&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#000000;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="48" y="319" width="72" height="111" as="geometry" />
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-60" value="培训专员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#000000;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="198" y="316" width="31" height="111" as="geometry" />
