@@ -39,7 +39,7 @@
           <mxGeometry x="720" y="322.5" width="36" height="98" as="geometry" />
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-26" value="实&lt;div&gt;物&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;&lt;div&gt;证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFCC;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="850" y="318" width="34.5" height="98" as="geometry" />
+          <mxGeometry x="841.25" y="322.5" width="34.5" height="98" as="geometry" />
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-28" value="指&lt;div&gt;标&lt;/div&gt;&lt;div&gt;对&lt;/div&gt;&lt;div&gt;比&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFCC;fontSize=17;fontColor=#000000;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="965" y="318" width="36" height="98" as="geometry" />
@@ -52,6 +52,12 @@
               <mxPoint x="735" y="251" />
               <mxPoint x="987" y="251" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RBmMXZ5XCkEqrK13Xaad-30" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;align=center;entryX=0.548;entryY=1.013;entryPerimeter=0;fontStyle=1" parent="1" target="RBmMXZ5XCkEqrK13Xaad-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="864" y="320" as="sourcePoint" />
+            <mxPoint x="882" y="287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RBmMXZ5XCkEqrK13Xaad-53" value="三级架构" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#000000;fontSize=17;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
@@ -100,16 +106,6 @@
         </mxCell>
         <mxCell id="bQ-rXIquePDy9N8uiz9J-4" value="决&lt;div&gt;策&lt;/div&gt;&lt;div&gt;机&lt;/div&gt;&lt;div&gt;制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFCC;fontSize=17;fontColor=#000000;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="434.5" y="324.5" width="36" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="bQ-rXIquePDy9N8uiz9J-6" value="" style="endArrow=none;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;align=center;exitX=0.417;exitY=-0.003;exitPerimeter=0;entryX=0.611;entryY=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="745" y="332" as="sourcePoint" />
-            <mxPoint x="997" y="328" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="745" y="240" />
-              <mxPoint x="997" y="240" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
