@@ -115,11 +115,6 @@
             <mxPoint x="476" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2RiS8ALDfPdC-6W32hzE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=30;exitDy=49;exitPerimeter=0;" edge="1" parent="1" source="2RiS8ALDfPdC-6W32hzE-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-90" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2RiS8ALDfPdC-6W32hzE-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-139" y="590" width="100" height="70" as="geometry" />
         </mxCell>
