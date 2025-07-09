@@ -14,7 +14,7 @@
           <mxGeometry x="-260" y="740" width="1270" height="340" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-430" value="GET&lt;div&gt;LLM目标推理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;fontFamily=Comic Sans MS;fontSize=15;align=center;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="20" y="770" width="118" height="86" as="geometry" />
+          <mxGeometry x="-90" y="760" width="420" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-432" value="DOU&lt;div&gt;自主目标优化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="689" y="870" width="112" height="84" as="geometry" />
