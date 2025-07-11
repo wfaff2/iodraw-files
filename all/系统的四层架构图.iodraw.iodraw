@@ -106,8 +106,11 @@
         <mxCell id="2p_KEPGVEdokKEa8Awxw-37" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;不可达区域判定&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#D5E8D4;fontFamily=Comic Sans MS;fontSize=20;align=center;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="502.25" width="280" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="2p_KEPGVEdokKEa8Awxw-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#D5E8D4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="2p_KEPGVEdokKEa8Awxw-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#EDC066;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="116" y="337.25" width="84" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2p_KEPGVEdokKEa8Awxw-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#EDC066;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="564" width="84" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
