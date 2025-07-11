@@ -11,7 +11,7 @@
           <mxGeometry x="670" y="140" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-424" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;AAGE&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;空地信息共享&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="689" y="198.5" width="247" height="78" as="geometry" />
+          <mxGeometry x="691.5" y="198.5" width="247" height="78" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-428" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#7EA6E0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="-246" y="730" width="1216" height="380" as="geometry" />
@@ -104,13 +104,13 @@
           <mxGeometry x="1161.5" y="832" width="247" height="176" as="geometry" />
         </mxCell>
         <mxCell id="oCCMnc3q3J8iDT0jLDr7-1" value="&lt;font color=&quot;#ffb570&quot; style=&quot;font-size: 35px;&quot;&gt;协同感知&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;container=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="810" width="247" height="40" as="geometry" />
+          <mxGeometry x="-680" y="810" width="247" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCCMnc3q3J8iDT0jLDr7-2" value="&lt;span style=&quot;font-size: 35px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#97d077&quot;&gt;空间扩展&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="-690" y="565" width="247" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCCMnc3q3J8iDT0jLDr7-3" value="&lt;font color=&quot;#7ea6e0&quot; style=&quot;font-size: 35px;&quot;&gt;智能推理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="396" width="247" height="66" as="geometry" />
+          <mxGeometry x="-710" y="396" width="247" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
